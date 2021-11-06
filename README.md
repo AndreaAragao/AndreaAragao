@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-Atualmente estudo técnico em Desenvolvimento de Sistemas.
+Currently technical study in Systems Development.
 
-🌍 "Quanto mais eu sei, mais eu sou" 🧠                                                                                                   
+🌍 "The more I know the more I am." 🧠                                                                                                   
   📍  From Carutapera, living in Belo Horizonte.
 
 <div align="center">
   <a href="https://github.com/AndreaAragao">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AndreaAragao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AndreaAragao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaAragao&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
@@ -15,7 +15,6 @@ Atualmente estudo técnico em Desenvolvimento de Sistemas.
   <img align="center" alt="Andrea-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Andrea-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-  
   
   Reach me out 👇🏼
   
