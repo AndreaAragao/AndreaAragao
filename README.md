@@ -2,7 +2,7 @@
 
 Currently technical study in Systems Development.
 
-🌍 "The more I know the more I am." 🧠                                                                                                   
+🌍 "The result of the program is relative to the programmer's knowledge level." 🧠                                                                                                   
   📍  From Carutapera, living in Belo Horizonte.
 
 <div align="center">
