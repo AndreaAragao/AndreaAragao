@@ -2,7 +2,9 @@
 
 Currently technical study in Systems Development.
 
-🌍 "The result of the program is relative to the programmer's knowledge level." 🧠                                                                                                   
+🌍 "The result of the program is relative to the programmer's knowledge level." 🧠    
+And I'm starting that process.
+                                                                                               
   📍  From Carutapera, living in Belo Horizonte.
 
 <div align="center">
