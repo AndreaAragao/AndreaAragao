@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently technical study in Systems Development.
+Software Engineering Student.
 
 🌍 "The result of the program is relative to the programmer's knowledge level." 🧠    
 And I'm starting that process.
