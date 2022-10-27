@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Data analysis and development Student.
+**Student in Dataanalysis and development.
 
 🌍 "The result of the program is relative to the programmer's knowledge level." 🧠    
 And I'm starting that process.
