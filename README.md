@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Software Engineering Student.
+Data analysis and development Student.
 
 🌍 "The result of the program is relative to the programmer's knowledge level." 🧠    
 And I'm starting that process.
