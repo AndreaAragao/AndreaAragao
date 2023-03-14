@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Student in Data Analysis and Development.
+Estudante de Análise e Desenvolvimento de Sistemas, na PUC MG.
 
 
 <div align="center">
